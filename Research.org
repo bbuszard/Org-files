@@ -1,0 +1,51 @@
+;; The GRETL Project
+* Enter data into GRETL database
+** DONE Enter Polybius into Database
+** DONE Enter Dionysius of Halicarnassus into Database
+** DONE Enter Appian into Database
+** DONE Enter Diodorus Siculus into Database
+** DONE Enter Augustus Monumentum Ancyranum into Database
+** TODO Enter Plutarch Lives into Database
+*** DONE Romulus <2018-03-06 Tue>
+*** TODO Publicola
+*** DONE Numa <2018-03-06 Tue>
+** TODO Enter Plutarch Moralia into Database
+*** TODO Quaestiones Romanae
+*** TODO De fortuna Romanorum
+** TODO Enter Remaining Cassius Dio into Database
+** TODO Enter Josephus into Database
+** TODO Enter Strabo into Database
+
+
+* Write monograph
+** TODO Religion
+*** TODO Gods
+**** WRITING Apollo
+**** WRITING Hercules
+*** TODO Priests
+**** TODO Pontifices
+**** TODO Augures
+**** TODO Flamines
+**** TODO XII sacris faciundis
+*** TODO Rites
+** TODO Politics
+*** TODO Magistracies
+*** TODO Senate
+*** TODO Elections
+*** TODO Treaties
+** TODO Military
+*** TODO Officers
+*** TODO Tactics
+*** TODO Arms
+** TODO Games and Festivals
+** TODO Triumphs and Ouationes
+** TODO Italian topography
+** TODO Calendar
+** TODO Names
+
+
+* Murder of Romulus
+** DONE Submit Abstract
+** WAITING Write Paper
+
+* DONE Pronunciation of Latin U article
