@@ -1,4 +1,3 @@
-;; The GRETL Project
 * Enter data into GRETL database
 ** DONE Enter Polybius into Database
 ** DONE Enter Dionysius of Halicarnassus into Database
@@ -47,5 +46,6 @@
 * Murder of Romulus
 ** DONE Submit Abstract
 ** WAITING Write Paper
+
 
 * DONE Pronunciation of Latin U article
