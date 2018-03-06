@@ -1,5 +1,5 @@
 * 2016
-* DONE make gift for Ann <2016-12-24 Sat>
+* DONE make gift for Mom <2016-12-24 Sat>
 
 * 2017
 * DONE make gift for James <2017-12-24 Sun>
@@ -8,3 +8,4 @@
 
 * 2018
 * TODO make gift for Mom <2018-12-24 Mon>
+** TODO Need an idea first!
