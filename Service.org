@@ -1,14 +1,23 @@
+#+OPTIONS: toc:nil
+#+TAGS: Meeting(m) UAC(u) ClassicsCoord(c) EtaSigmaPhi(e)
+
 * UAC
 ** Write Rubrics
-*** TODO BM - Instrumental Music Ed.
-*** TODO BM - Composition
-*** TODO OEMB
-*** TODO Meeting in DSU Madison <2018-03-12 Mon 10:00>
+   DEADLINE: <2018-03-12 Mon> SCHEDULED: <2018-03-10 Sat>
+*** DONE BM - Instrumental Music Ed.
+*** DONE BM - Composition
+*** DONE OEMB
+*** DONE Meeting in DSU Madison <2018-03-12 Mon 10:00>          :Meeting:UAC:
 ** Write Summaries
+   DEADLINE: <2018-04-09 Mon> SCHEDULED: <2018-04-02 Mon 10:00>
 *** TODO BM - Instrumental Music Ed.
 *** TODO OEMB
+*** TODO Meeting in CNH 312                                     :Meeting:UAC:
 
 * Classics Coordination
-** WAITING Select /Antigone/ date (4/6, 4/13, 4/15)
-** TODO Purchase /Antigone/ ticket ($12.00)
-** TODO Meeting <2018-04-17 Tue 12:30>
+** DONE Select /Antigone/ date   :ClassicsCoord:EtaSigmaPhi:
+   Date is <2018-04-15 Sun>
+** TODO Purchase /Antigone/ ticket ($12.00)       :ClassicsCoord:EtaSigmaPhi:
+** TODO Write CLST meeting agenda                             :ClassicsCoord:
+   DEADLINE: <2018-04-13 Fri>
+** TODO Meeting <2018-04-17 Tue 12:30>                :Meeting:ClassicsCoord:
