@@ -1,11 +1,15 @@
+#+STARTUP: hidestart
+#+SEQ_TODO: TODO THINKING WAITING WORKING DONE
+
 * 2016
 * DONE make gift for Mom <2016-12-24 Sat>
+  Made her moccasins. Worked fine.
 
 * 2017
 * DONE make gift for James <2017-12-24 Sun>
-  Note: massive screwup! Moccasin size wrong and had to give them
+  Note: massive screwup! Moccasin length too short and had to give them
   to Laura instead. Make it up to him next chance I get!!!
 
 * 2018
 * TODO make gift for Mom <2018-12-24 Mon>
-** TODO Need an idea first!
+  Can't do moccasins again.
