@@ -1,0 +1,56 @@
+#+STARTUP: hidestars
+
+* 2018
+** March
+*** 3-11-2018 Sunday [5/5]
+    - [X] Grade scantron part of 201 midterm
+    - [X] Make sure coming week is ready online for CLST201
+    - [X] Complete the 3 rubrics for UAC
+    - [X] Email advisees to schedule meetings
+    - [X] Food Lion groceries
+*** 3-12-2018 Monday [3/3]
+    - [X] UAC meeting
+    - [X] Grade written part of 201 midterm
+    - [X] Complete Rina's recommendation
+*** 3-14-2018 Wednesday [3/3]
+    - [X] Research at least 2 hours
+    - [X] Prepare lecture for CLST 201
+    - [X] Prepare reading and quiz for LATN 202
+*** 3-15-2018 Thursday [1/1]
+    - [X] Some Research
+*** 3-17-2018 Saturday [4/4]
+    - [X] 1/2 hour of writing practice
+    - [X] get suit jacket and slacks from office
+    - [X] research 2 hours
+    - [X] Jared & Chelsea's wedding <2018-03-17 Sat 05:15> 
+*** 3-18-2018 Sunday [3/3]
+    - [X] workout <2018-03-18 Sun 20:00-21:45>
+    - [X] see Norman finish marathon <2018-03-18 Sun 11:15>
+    - [X] lunch <2018-03-18 Sun 12:30-02:30>
+*** 3-19-2018 Monday [4/4]
+    - [X] research 2 hours
+    - [X] 1/2 hour of writing practice
+    - [X] prepare LATN 202
+    - [X] prepare CLST 201
+*** 3-20-2018 Tuesday [3/3]
+    - [X] send emails to open house students (or is Jana doing it?)
+    - [X] research some
+    - [X] send email to Laura about the adjunct applicant
+*** 3-21-2018 Wedesday [2/2]
+    - [X] work out
+    - [X] 1/2 hour of writing practice
+      :LOGBOOK:
+      - Note taken on [2018-03-21 Wed 13:38] \\
+	The workout went fairly well. 215 for press singles weren't a 
+        problem. My shoulders feel fine, but my left elbow is pretty
+        sore. I don't know if there's anything short of extensive rest
+        that will make it settle down, nor do I know what the primary
+        cause of the problem might be.
+      - Note taken on [2018-03-21 Wed 09:11] \\
+	I was supposed to do the press workout last night, but ended up helping
+	Jon with ham radio concepts instead.
+      :END:
+*** 3-22-2018 Wedesday [0/3]
+    - [ ] prepare CLST 201 lecture for today
+    - [ ] get CLST201 questions for next week up on Scholar
+    - [ ] skvat workout

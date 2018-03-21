@@ -1,0 +1,21 @@
+* 2018 spring
+** CLST201
+*** DONE Grade CLST201 midterms
+    DEADLINE: <2018-03-12 Mon> SCHEDULED: <2018-03-11 Sun>
+** LATN202  
+*** 2nd midterm 
+    DEADLINE: <2018-03-29 Thu>
+** End of spring 2018 semester
+*** My last day of classes 
+    SCHEDULED: <2018-04-19 Thu>
+*** Exams
+**** CLST201-1
+     DEADLINE: <2018-04-26 Thu 11:00-13:30>
+**** CLST201-2
+     DEADLINE: <2018-04-24 Tue 14:00-16:30>
+**** LATN202-1
+     DEADLINE: <2018-04-26 Thu 8:00-10:30>
+*** Final grades due
+    DEADLINE: <2018-05-03 Thu 10:00>
+*** Commencement
+    DEADLINE: <2018-05-12 Sat>
