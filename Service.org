@@ -16,8 +16,11 @@
 
 * Classics Coordination
 ** DONE Select /Antigone/ date   :ClassicsCoord:EtaSigmaPhi:
-   Date is <2018-04-15 Sun>
+   DEADLINE: <2018-04-15 Sun 14:00>
 ** TODO Purchase /Antigone/ ticket ($12.00)       :ClassicsCoord:EtaSigmaPhi:
 ** TODO Write CLST meeting agenda                             :ClassicsCoord:
-   DEADLINE: <2018-04-13 Fri>
+** TODO Liz Jones talk                                        :ClassicsCoord:
 ** TODO Meeting <2018-04-17 Tue 12:30>                :Meeting:ClassicsCoord:
+   Items: Kent's translation exam, the studies-track exam, the spring '19
+   schedule. At meeting review capstone seminar time.
+   DEADLINE: <2018-04-12 Thu 15:00>

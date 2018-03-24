@@ -1,14 +1,14 @@
 * Pool platform/grading
 ** Getting estimates
-*** WAITING Larry Dringenberg (757-879-7457)
-    Said he would use 3/4" gravel, then sand. 
-    Estimate "much less" than $1500, but wanted my help installing
-    Called and asked for firm estimate; he'll call back ~end of week
-    <2018-03-14 Wed 13:00>
-*** WAITING Doug Diehl (757-288-6131)
+*** TODO Larry Dringenberg (757-879-7457)
+    Said he would use all sand. <2018-03-22 Thu>
+    Total price $650
+    Will call soon once ground dries out to get started.
+*** DONE Doug Diehl (757-288-6131)
     Referred to him by another contractor
     left message <2018-03-09 Fri> 
-*** TODO Call Micah Miller (757-903-7927)
+    never called
+*** DONE Call Micah Miller (757-903-7927)
     Came out and gave estimate <2018-03-03 Sat> 
     $1500 estimate for pea gravel; now I think I'd prefer sand
     Out of town <2018-03-04 Sun> through <2018-03-11 Sun> 

@@ -37,7 +37,7 @@
     - [X] research some
     - [X] send email to Laura about the adjunct applicant
 *** 3-21-2018 Wedesday [2/2]
-    - [X] work out
+    - [X] press work out
     - [X] 1/2 hour of writing practice
       :LOGBOOK:
       - Note taken on [2018-03-21 Wed 13:38] \\
@@ -50,7 +50,34 @@
 	I was supposed to do the press workout last night, but ended up helping
 	Jon with ham radio concepts instead.
       :END:
-*** 3-22-2018 Wedesday [0/3]
-    - [ ] prepare CLST 201 lecture for today
-    - [ ] get CLST201 questions for next week up on Scholar
+*** 3-22-2018 Thursday [2/2]
+    - [X] prepare CLST 201 lecture for today
+    - [X] get CLST201 questions for next week up on Scholar
+*** 3-23-2018 Friday [3/3]
+    - [X] skvat workout
+    - [X] haircut
+    - [X] 1/2 hour of writing practice
+      :LOGBOOK:
+      - Note taken on [2018-03-24 Sat 10:37] \\
+	Skvats went pretty well. I had doubles and only the last
+	set was really grindy. DB rows with 60 lbs. are getting
+	heavy, and curls with 15 lbs. were QUITE hard.
+      - Note taken on [2018-03-23 Fri 09:52] \\
+	Moved skvat workout from yesterday to today. The plan
+	now is to workoug Fri-Sun-Tues-Thurs-Sat.
+      :END:
+*** 3-24-2018 Saturday [0/1]
+    - [ ] 1/2 hour of writing practice
+*** 3-25-2018 Sunday [0/2]
+    - [ ] bench workout
+    - [ ] 1/2 hour of writing practice
+*** 3-27-2018 Tuesday [0/2]
+    - [ ] deadlift workout
+    - [ ] 1/2 hour of writing practice
+*** 3-29-2018 Thursday [0/2]
+    - [ ] LATN exam
+    - [ ] press workout
+    - [ ] 1/2 hour of writing practice
+*** 3-31-2018 Saturday [0/2]
     - [ ] skvat workout
+    - [ ] 1/2 hour of writing practice
